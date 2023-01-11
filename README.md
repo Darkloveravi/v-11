@@ -6,7 +6,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 
 ## How To Deploy
 <p align="center">
-[`Tutorial`]()
+[`Tutorial`](https://t.me/dominator_bot_official/1194)
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
