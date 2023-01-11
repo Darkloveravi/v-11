@@ -4,6 +4,9 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 
+<p align="center">
+How To Deploy
+[`Tutorial`]()
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
 * WhatsApp Bot normal [`THEJO307/jo-v-10`](https://github.com/THEJO307/jo-v-10)
