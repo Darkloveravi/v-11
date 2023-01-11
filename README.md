@@ -3,8 +3,6 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 
 <p align="center">
 	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
@@ -20,8 +18,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/THEJO307/jo-v-10
-cd jo-v-10
+git https://github.com/DOMINATOR-XD/v11
+cd v11
 npm install
 ```
 
@@ -41,8 +39,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/THEJO307/jo-v-10
-cd jo-v-10
+git clone https://github.com/DOMINATOR-XD/v11
+cd v11
 npm install
 ```
 
