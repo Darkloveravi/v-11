@@ -4,8 +4,8 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 
+## How To Deploy
 <p align="center">
-How To Deploy
 [`Tutorial`]()
 
 ## My Project
