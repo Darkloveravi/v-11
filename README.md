@@ -7,6 +7,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 How To Deploy
 [`Tutorial`]()
+
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
 * WhatsApp Bot normal [`THEJO307/jo-v-10`](https://github.com/THEJO307/jo-v-10)
